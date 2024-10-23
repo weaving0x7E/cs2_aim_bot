@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['aimbot 2 - v1 2024-07-03 5-47am']
+
+roboflow:
+  workspace: tf2-pk0n7
+  project: cs2-c43jm
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/tf2-pk0n7/cs2-c43jm/dataset/1
